@@ -5,11 +5,11 @@ For the last couple of years, a many articles have cropped up, claiming cache ba
 Some ways to defend against the attack have already been found, for example improving the protection on existing encryption algorithms. However we seek a solution that would protect all code from the attack, without requiring all programmers to build their code with the attack in mind. Therefore, we seek an answer on the Hypervisor level, in order to protect all our virtual machines regardless of whether their code is secure or not.
 in this project we will Provide a defense on the hypervisor level that can either detect, or stop the attack.
 
-##Requirments
+## Requirments
 
 Please copy the lib* files found in th binarys folder to "/usr/lib"
 
-##Instalation
+## Instalation
 
 Download the files and run:
 ```
@@ -18,7 +18,7 @@ $ make
 Inside the code files folder.
 Cache_SCA_Mitigate Execuatble will be created.
 
-##Instructions
+## Instructions
 
 Run the Execuatble by:
 ```
@@ -26,7 +26,7 @@ $ ./Cache_SCA_Mitigate
 ```
 And follow the menu Instructions.
 
-##Contact Information
+## Contact Information
 
 For any further information please contact:
 
