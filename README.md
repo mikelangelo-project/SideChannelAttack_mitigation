@@ -31,7 +31,9 @@ And follow the menu Instructions.
 For any further information please contact:
 
 Dr. Niv Gilboa from Bgu : gilboan@bgu.ac.il
+
 Dr. Gabriel Scalosub from BGU : sgabriel@bgu.ac.il
+
 Mr. Gal Hershcovich from BGU : galhers@post.bgu.ac.il
 
 ## Acknowledgements
