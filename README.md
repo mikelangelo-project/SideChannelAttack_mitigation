@@ -3,7 +3,8 @@
 For the last couple of years, a many articles have cropped up, claiming cache based attacks on virtual machines are practical and a real threat to cloud security. The attacks described in these articles vary in methods and tools, but are all based on stealing encryption data using cache timing attacks. Due to this looming threat, a need for a layer of defense, that can either detect, or even stop these attacks, is needed.
 
 Some ways to defend against the attack have already been found, for example improving the protection on existing encryption algorithms. However we seek a solution that would protect all code from the attack, without requiring all programmers to build their code with the attack in mind. Therefore, we seek an answer on the Hypervisor level, in order to protect all our virtual machines regardless of whether their code is secure or not.
-in this project we will Provide a defense on the hypervisor level that can either detect, or stop the attack.
+
+In this project we will Provide a defense on the hypervisor level that can either detect, or stop the attack.
 
 ## Requirments
 
